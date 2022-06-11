@@ -1,0 +1,19 @@
+{
+  "name": "ncpkaamgaar",
+  "version": "1.0.0",
+  "description": "a website for ncp kaamgaar cell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamSRS/ncpkaamgaar.git"
+  },
+  "author": "Shivam Raisharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivamSRS/ncpkaamgaar/issues"
+  },
+  "homepage": "https://github.com/ShivamSRS/ncpkaamgaar#readme"
+}
