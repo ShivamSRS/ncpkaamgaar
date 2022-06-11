@@ -2,7 +2,7 @@
   "name": "ncpkaamgaar",
   "version": "1.0.0",
   "description": "a website for ncp kaamgaar cell",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
